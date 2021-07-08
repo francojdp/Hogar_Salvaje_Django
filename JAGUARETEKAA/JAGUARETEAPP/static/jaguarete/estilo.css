@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+body {
+    font-family: 'Otomanopee One', sans-serif;
+  }
+  
+  .col-3 img {
+    width: 70px;
+    height: 70px;
+  }
+  
+  .col h1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 10px;
+  }
+  .col-3 button {
+    font-size: 10px;
+  }
+  
+  .card img {
+    max-height: 20em;
+    max-width: 20em;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+  }
